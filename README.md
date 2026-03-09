@@ -62,7 +62,7 @@ sudo ./build.sh
 ![](image-2.png)
 
 For product quick start on EdgeLink Studio and EdgeLink Runtime, please refer to
-[EdgeLink Quick Start Documentation](https://www.advantech.com.cn/zh-cn/support/details/manual?id=1-28LPZU5) & [EdgeLink-docker Github Repository](https://github.com/Advantech-EdgeSync-Containers/EdgeLink-docker).
+[EdgeLink Quick Start Documentation](https://www.advantech.com.cn/zh-cn/support/details/manual?id=1-28LPZU5) & [EdgeLink-docker Github Repository](https://github.com/Advantech-Containers/EdgeLink-docker).
 
 
 ## 8. Product & Technical Contact
@@ -70,6 +70,7 @@ For more product information or technical support regarding EdgeLink Docker, ple
 
 
 Copyright © 2025 Advantech Corporation. All rights reserved.
+
 
 
 
